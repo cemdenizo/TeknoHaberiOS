@@ -1,2 +1,3 @@
-# TeknoHaberiOS
-Güncel teknoloji haberlerini getiren bir iOS uygulaması.
+# TeknoHaber
+
+Newsapi.org u kullanarak çalışan basit haber uygulaması
